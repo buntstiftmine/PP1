@@ -173,7 +173,7 @@ Using your Boolean equations, build a logic network in [CircuitVerse](https://ci
 
 <details>
 <summary>Your solution</summary>
-A share link to your solution goes here: <a href=".................">Link!</a>
+A share link to your solution goes here: <a href="https://circuitverse.org/users/305916/projects/buntstiftmine-pp1-84de9c95-86bc-4a8d-a79c-a5e03109b62d">Link!</a>
 </details>
 
 ---
